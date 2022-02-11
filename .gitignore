@@ -6,7 +6,7 @@ __pycache__/
 # API Config file
 config.sys
 
-# File that is just too big
+# File that is just too big-
 ratings.csv 
 
 # C extensions
