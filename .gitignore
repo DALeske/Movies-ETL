@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # API Config file
-config.sys
+config.py
 
 # CSV files 
 ratings.csv
