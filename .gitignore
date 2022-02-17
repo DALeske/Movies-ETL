@@ -8,8 +8,7 @@ config.py
 
 # CSV files 
 ratings.csv
-movies_metadata.csv
-wikipedia-movies.json
+
 
 # C extensions
 *.so
